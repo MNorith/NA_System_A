@@ -1,3 +1,2 @@
-# NA_SYSTEM_A
-NA_SYSTEM_A project
-Hello bro 
+# NA_System_A
+e20221388 Channorith
